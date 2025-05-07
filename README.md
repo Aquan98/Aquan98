@@ -11,6 +11,10 @@
 🔍 **身份：** 在读本科生。  
 🎯 **日常：** 和 MATLAB、Python 做朋友，和 C 做敌人。
 
+<img src="HSHD-AFBP.png" alt="SAR高机动曲线轨迹模型" width="500" height="300">
+
+# SAR高机动曲线轨迹模型
+
 ---
 
 ## 🤖 **我是个什么🐮🐎？**
